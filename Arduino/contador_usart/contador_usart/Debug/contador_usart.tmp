@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Proyec\Instrumentacion\Arduino\contador_usart\contador_usart\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Proyec\Instrumentacion\Arduino\contador_usart\contador_usart\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Proyec\Instrumentacion\Arduino\contador_usart\contador_usart\Debug\contador_usart.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>contador_usart.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>contador_usart.map</FILE>
+  <FILE>contador_usart.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\Proyec\Instrumentacion\Arduino\contador_usart\contador_usart\main.asm</FILE><LINE>22</LINE></reset>
+  <main><FILE>D:\Proyec\Instrumentacion\Arduino\contador_usart\contador_usart\main.asm</FILE><LINE>33</LINE></main>
+  <delay_500ms><FILE>D:\Proyec\Instrumentacion\Arduino\contador_usart\contador_usart\main.asm</FILE><LINE>42</LINE></delay_500ms>
+  <lazo_3><FILE>D:\Proyec\Instrumentacion\Arduino\contador_usart\contador_usart\main.asm</FILE><LINE>43</LINE></lazo_3>
+  <lazo_2><FILE>D:\Proyec\Instrumentacion\Arduino\contador_usart\contador_usart\main.asm</FILE><LINE>44</LINE></lazo_2>
+  <lazo_1><FILE>D:\Proyec\Instrumentacion\Arduino\contador_usart\contador_usart\main.asm</FILE><LINE>45</LINE></lazo_1>
+ </LABELS>
+</ASSEMBLER_INFO>
